@@ -1,0 +1,43 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="OR_simplex.MainWindow"
+        Title="Simplex" Height="656.567" Width="763.807">
+
+    <Grid  >
+        <StackPanel Margin="0,0,290,514" Orientation="Vertical" >
+            <Label Content="enter the number of decision varaibles : " Margin="0,0,165,0" FontSize="16"/>
+            <Label Content="enter the number of subject to :" Height="35" Margin="0,0,165,0" FontSize="16"/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="The equation you want to enter is:     " FontSize="16"></Label>
+                <CheckBox x:Name="Max" Checked="Max_Checked" RenderTransformOrigin="0.438,0.839" Height="18"/>
+                <Label Content="Max                     "></Label>
+
+                <CheckBox x:Name="Min" Height="19" Checked="Min_Checked" ></CheckBox>
+                <Label Content="Min"></Label>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="313,0,382,531" Orientation="Vertical" MaxWidth="70">
+            <TextBox x:Name="numDecisionVarTB" Height="25" Margin="10,5" />
+            <TextBox x:Name="numST" Height="29" Margin="10,0"/>
+        </StackPanel>
+        <StackPanel Margin="466,0,10,548">
+            <Button x:Name="button1" Height="53" Click="Button_Click_1" HorizontalContentAlignment="Center" Content="Add" Background="CadetBlue"  Foreground="White"   HorizontalAlignment="Center"  Width="155" FontSize="20" />
+        </StackPanel>
+        <StackPanel x:Name="father"    Margin="0,121,10,0" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.226"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.996"/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <StackPanel x:Name="sp1" Height="394" Margin="0,0,153,0"/>
+            <StackPanel  Height="70" Margin="631,0,0,0" RenderTransformOrigin="0.644,0.878">
+                <Button x:Name="button2" Width="100" Height="50" Content="solve" FontSize="20" Click="Button_Click"  Background="CadetBlue"   Foreground="White"  Visibility="Hidden" />
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,80 @@
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\bin\Debug\OR_simplex.exe.config
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\bin\Debug\OR_simplex.exe
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\bin\Debug\OR_simplex.pdb
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.csprojResolveAssemblyReference.cache
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\MainWindow.baml
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\MainWindow.g.cs
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\App.g.cs
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex_MarkupCompile.cache
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.g.resources
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.Properties.Resources.resources
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.csproj.GenerateResource.Cache
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.exe
+c:\users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\OR_simplex.pdb
+C:\Users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\Window1.baml
+C:\Users\aalaa.alhamwi\documents\visual studio 2013\Projects\OR_simplex\OR_simplex\obj\Debug\Window1.g.cs
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.exe.config
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.exe
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.pdb
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.exe
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.pdb
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.csprojResolveAssemblyReference.cache
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\MainWindow.baml
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\Window1.baml
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\MainWindow.g.cs
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\Window1.g.cs
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\App.g.cs
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex_MarkupCompile.cache
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.g.resources
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.Properties.Resources.resources
+C:\Users\aalaa.alhamwi\Documents\Visual Studio 2013\Projects\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.csproj.GenerateResource.Cache
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.exe.config
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.exe
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.pdb
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.exe
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\OR_simplex.pdb
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.csprojResolveAssemblyReference.cache
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\MainWindow.baml
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\Window1.baml
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\MainWindow.g.cs
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\Window1.g.cs
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\App.g.cs
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex_MarkupCompile.cache
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.g.resources
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.Properties.Resources.resources
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\obj\Debug\OR_simplex.csproj.GenerateResource.Cache
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\Microsoft.CSharp.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\PresentationCore.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\PresentationFramework.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.Data.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.Xaml.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.Xml.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\System.Xml.Linq.dll
+C:\Users\aalaa.alhamwi\Desktop\OR_simplex Final\OR_simplex\bin\Debug\WindowsBase.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\OR_simplex.exe.config
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.exe
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.pdb
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\OR_simplex.exe
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\OR_simplex.pdb
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\PresentationCore.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\PresentationFramework.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.Data.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.Xaml.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.Xml.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\System.Xml.Linq.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\bin\Debug\WindowsBase.dll
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.csprojResolveAssemblyReference.cache
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\MainWindow.baml
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\Window1.baml
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\MainWindow.g.cs
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\Window1.g.cs
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\App.g.cs
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex_MarkupCompile.cache
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.g.resources
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.Properties.Resources.resources
+C:\Users\Hannoush\Desktop\OR_simplex Fiiiiiinal\OR_simplex\obj\Debug\OR_simplex.csproj.GenerateResource.Cache
