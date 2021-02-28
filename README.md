@@ -4,3 +4,5 @@
  - Hungarian.
  - Simplex.
  - Network problems.
+
+setup folder contains .exe for the project
