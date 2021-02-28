@@ -1,0 +1,22 @@
+﻿<Window x:Class="ORFormes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Name="sp0" Margin="0,0,365,0" Background="LightSkyBlue"    >
+            <TextBlock Name="NumTextBlock" Text="Enter the number of jobs or person "  HorizontalAlignment="Left" TextWrapping="WrapWithOverflow" FontSize="15"  Foreground="DarkBlue" MaxWidth="155" MaxHeight="49"/>
+            <TextBox x:Name="GetNumBox" HorizontalAlignment="Left"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="30"  RenderTransformOrigin="-0.241,-4.537 " Background="GhostWhite" Foreground="DarkBlue" FontSize="15" TextAlignment="Center" Width="155" TextChanged="GetNumBox_TextChanged"/>
+            <Button  Name="NumButton"  Content="OK" HorizontalAlignment="Left"  Width="155" Click="Button_Click" RenderTransformOrigin="-2.519,0.369" Height="26" Background="DarkBlue" Foreground="DeepSkyBlue" FontSize="20"/>
+            <Button Name="CostButton" Content="Submit" HorizontalAlignment="Left"  Width="155" Click="Button_Click_1" RenderTransformOrigin="-2.519,0.369" Height="26" Background="DarkBlue" Foreground="DeepSkyBlue" FontSize="20" Visibility="Hidden"/>
+        </StackPanel>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" CanContentScroll="False" Margin="152,0,0,0">
+
+            <StackPanel Name="sp1" Background="WhiteSmoke"/>
+        </ScrollViewer>
+
+
+
+
+    </Grid>
+</Window>

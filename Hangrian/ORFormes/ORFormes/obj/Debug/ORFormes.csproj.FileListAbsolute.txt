@@ -1,0 +1,30 @@
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\bin\Debug\ORFormes.exe.config
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\bin\Debug\ORFormes.exe
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\bin\Debug\ORFormes.pdb
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.csprojResolveAssemblyReference.cache
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\MainWindow.baml
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\MainWindow.g.cs
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\App.g.cs
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes_MarkupCompile.cache
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.g.resources
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.Properties.Resources.resources
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.csproj.GenerateResource.Cache
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.exe
+c:\users\hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\ORFormes.pdb
+C:\Users\Hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\solveWindow.baml
+C:\Users\Hannoush\documents\visual studio 2013\Projects\ORFormes\ORFormes\obj\Debug\solveWindow.g.cs
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\bin\Debug\ORFormes.exe.config
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.exe
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.pdb
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\bin\Debug\ORFormes.exe
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\bin\Debug\ORFormes.pdb
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\solveWindow.baml
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\solveWindow.g.cs
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\App.g.cs
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes_MarkupCompile.cache
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.g.resources
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.Properties.Resources.resources
+C:\Users\TOSHIBA C850\Downloads\10656855_737733392980107_1898092116_n\ORFormes\ORFormes\obj\Debug\ORFormes.csproj.GenerateResource.Cache
